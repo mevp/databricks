@@ -9,4 +9,6 @@ def a():
   c=3
   return
 def b(): 
-  return 0
+  a =1
+  b=3
+  return
