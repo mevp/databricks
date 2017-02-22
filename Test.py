@@ -6,4 +6,6 @@ def foo2():return 1
 def a():
   return
 def b(): 
-  return 0
+  a =1
+  b=3
+  return
