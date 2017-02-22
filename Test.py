@@ -10,6 +10,8 @@ def a():
   d=1
   return
 def b(): 
+  a=1
+  b=1
   return
 def c():
   return
