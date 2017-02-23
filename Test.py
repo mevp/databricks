@@ -26,3 +26,5 @@ def d():
   
   return 
 ## end
+a = 1
+b=2
